@@ -22,5 +22,11 @@
     "del-cli": "^4.0.1",
     "parcel": "^2.3.2"
   },
-  "browserslist": ["Firefox>95", "Chrome>95"]
+  "browserslist": [
+    "Firefox>95",
+    "Chrome>95"
+  ],
+  "dependencies": {
+    "firebase": "^9.6.9"
+  }
 }
