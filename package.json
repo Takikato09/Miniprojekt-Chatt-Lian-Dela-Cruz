@@ -20,7 +20,8 @@
   "homepage": "https://github.com/Takikato09/Miniprojekt-Chatt-Lian-Dela-Cruz#readme",
   "devDependencies": {
     "del-cli": "^4.0.1",
-    "parcel": "^2.3.2"
+    "parcel": "^2.3.2",
+    "process": "^0.11.10"
   },
   "browserslist": [
     "Firefox>95",
